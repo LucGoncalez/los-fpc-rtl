@@ -1,4 +1,4 @@
-# FPCrtlLOS #
+# LOS-FPC-RTL #
 **Repositório RTL do compilador FPC para o Projeto LOS**
 
 Este repositório será usado para a implementação da RTL do FPC do Projeto LOS.
