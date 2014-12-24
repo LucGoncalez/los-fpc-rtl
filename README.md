@@ -11,6 +11,7 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 ## Revisões ##
 
+* **build-004:** Para implementação de *kernel.006*
 * **build-003:** Para implementação de *kernel.004*
 * **build-002:** Para implementação de *kernel.003*
 * **build-001:** Para implementação de *kernel.002*
